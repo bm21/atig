@@ -1,7 +1,5 @@
 
 # Self Learning
-> Author: mangalbhaskar
-> Last Updated On: 09th-Sep-2021
 
 ## Online Learning Platform
 
@@ -15,18 +13,18 @@
 
 * [Stanford Free courses](https://online.stanford.edu/free-courses)
 * [MIT OpenCourseWare - OCW](https://ocw.mit.edu/index.htm)
-* [NPTEL, India - National Programme on Technology Enhanced Learning]([https://nptel.ac.in/course.html](https://nptel.ac.in/course.html))
+* [NPTEL, India - National Programme on Technology Enhanced Learning](https://nptel.ac.in/course.html)
 * [ISRO Outread Program, eLearning Courses](https://elearning.iirs.gov.in/)
 
 ## Online IDE - backend, frontend, python, AI
 
-* [stackblitz]([https://stackblitz.com/https://stackblitz.com/)
+* [stackblitz](https://stackblitz.com/https://stackblitz.com/)
 * [codesandbox](https://codesandbox.io/)
-* [replit](https://codesandbox.io/%20https://replit.com)
+* [replit](https://replit.com)
 * [codesandbox](https://codesandbox.io/)
 
 ## Online IDE - Datascience, AI
 
 * [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
-* [AI in colab using Voxel51]([https://colab.research.google.com/github/voxel51/fiftyone-examples/blob/master/examples/quickstart.ipynb#scrollTo=TuJE1PiQa69y](https://colab.research.google.com/github/voxel51/fiftyone-examples/blob/master/examples/quickstart.ipynb#scrollTo=TuJE1PiQa69y))
-* [Kaggle]([https://www.kaggle.com)
+* [AI in colab using Voxel51](https://colab.research.google.com/github/voxel51/fiftyone-examples/blob/master/examples/quickstart.ipynb#scrollTo=TuJE1PiQa69y))
+* [Kaggle](https://www.kaggle.com)
